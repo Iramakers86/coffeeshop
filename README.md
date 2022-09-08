@@ -1,5 +1,5 @@
 # coffee shops
-DataCamp exercise, case study:
+DataCamp exercise, case study: see the results in case_coffee_shops.sql
 
 
 You can use any tool that you want to do your analysis and create visualizations. You will only need to use DataCamp Workspace to write up your summary in Markdown.
